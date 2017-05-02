@@ -16,7 +16,7 @@ public class JavaApplication44 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        <label jeizz mi verga en tu boca </label>
+        <label jeizz es un mk  </label>
     }
     
 }
